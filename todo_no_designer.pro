@@ -6,9 +6,11 @@ CONFIG += c++14
 
 SOURCES += \
     MainWindow.cpp \
+    Task.cpp \
     main.cpp
 
 HEADERS += \
-    MainWindow.h
+    MainWindow.h \
+    Task.h
 
 FORMS +=
